@@ -1,5 +1,4 @@
-<h1> About Me </h1>
-
+# About Me 
 ```YAML
 def about_me():
 { 
@@ -10,9 +9,8 @@ def about_me():
 def education(): 
 { 
     formal_education = "BTech CSE" 
-    informal_education_1 = "Self taught Developer and Designer" 
+    informal_education = "Self taught Developer" 
 }
-
 
 def interest():
 { 
