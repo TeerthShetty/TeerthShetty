@@ -41,6 +41,22 @@ technical_background(): <br>
 &emsp;    Internship_1_task_status = "Done" <br>
 
 } <br>
+
+def tools_i_have_used_and_learned(): <br>
+{ <br>
+
+&emsp;    tool_1 = "Python" <br>
+&emsp;    tool_2 = "Pycharm" <br>
+&emsp;    tool_3 = "C" <br>
+&emsp;    tool_4 = "C++" <br>
+&emsp;    tool_5 = "Java" <br> 
+&emsp;    tool_6 = "VS Code" <br>
+&emsp;    tool_7 = "Adobe Illustrator" <br>
+&emsp;    tool_8 = "Adobe Photoshop" <br> 
+&emsp;    tool_9 = "Linux" <br>
+&emsp;    tool_10 = "HTML 5" <br>
+
+} <br>
 <!--
 
 </a>
