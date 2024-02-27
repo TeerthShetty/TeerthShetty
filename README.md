@@ -1,5 +1,5 @@
 # About Me 
-```YAML
+```Python
 def about_me():
 { 
     name = "Teerth Shetty"
