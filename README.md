@@ -2,7 +2,7 @@
 ```Python
 def about_me():
 { 
-    name = "Teerth Shetty"
+    Name = "Teerth Shetty"
     current_status = "Student"
 } 
 
