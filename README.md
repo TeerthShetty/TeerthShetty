@@ -1,44 +1,44 @@
 # About Me 
 ```Python
-def about_me():
+def About_me():
 { 
     Name = "Teerth Shetty"
-    current_status = "Student"
+    Current_status = "Student"
 } 
 
-def education(): 
+def Education(): 
 { 
-    formal_education = "BTech CSE" 
-    informal_education = "Self taught Developer" 
+    Formal_education = "BTech CSE" 
+    Informal_education = "Self taught Developer" 
 }
 
-def interest():
+def Interest():
 { 
-    interest_1 = "Machine Learning" 
-    interest_2 = "Natural Language Processing" 
-    interest_3 = "Mathematics" 
-    interest_4 = "Art" 
+    Interest_1 = "Machine Learning" 
+    Interest_2 = "Natural Language Processing" 
+    Interest_3 = "Mathematics" 
+    Interest_4 = "Art" 
 }
 
-def technical_background(): 
+def Iechnical_background(): 
 { 
     Internship_1 = "Bajaj Finserv"
     Internship_1_task = "Text Classification"
     Internship_1_task_status = "Done"
 } 
 
-def tools_i_have_used_and_learned(): 
+def Iools_i_have_used_and_learned(): 
 { 
-    tool_1 = "Python" 
-    tool_2 = "Pycharm" 
-    tool_3 = "C"
-    tool_4 = "C++" 
-    tool_5 = "Java" 
-    tool_6 = "VS Code" 
-    tool_7 = "Adobe Illustrator"
-    tool_8 = "Adobe Photoshop" 
-    tool_9 = "Linux"
-    tool_10 = "HTML 5"
+    Tool_1 = "Python" 
+    Tool_2 = "Pycharm" 
+    Tool_3 = "C"
+    Tool_4 = "C++" 
+    Tool_5 = "Java" 
+    Tool_6 = "VS Code" 
+    Tool_7 = "Adobe Illustrator"
+    Tool_8 = "Adobe Photoshop" 
+    Tool_9 = "Linux"
+    Tool_10 = "HTML 5"
 }
 
 ```
