@@ -1,5 +1,7 @@
+<h1> About Me </h1>
+
 ```YAML
-about me():
+def about_me():
 { 
     name = "Teerth Shetty"
     current_status = "Student"
@@ -20,7 +22,7 @@ def interest():
     interest_4 = "Art" 
 }
 
-technical_background(): 
+def technical_background(): 
 { 
     Internship_1 = "Bajaj Finserv"
     Internship_1_task = "Text Classification"
