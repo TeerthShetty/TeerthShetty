@@ -1,3 +1,51 @@
+```YAML
+about me():
+{ 
+    name = "Teerth Shetty"
+    current_status = "Student"
+} 
+
+def education(): 
+{ 
+    formal_education = "BTech CSE" 
+    informal_education_1 = "Self taught Developer and Designer" 
+}
+
+
+def interest():
+{ 
+    interest_1 = "Machine Learning" 
+    interest_2 = "Natural Language Processing" 
+    interest_3 = "Mathematics" 
+    interest_4 = "Art" 
+}
+
+technical_background(): 
+{ 
+    Internship_1 = "Bajaj Finserv"
+    Internship_1_task = "Text Classification"
+    Internship_1_task_status = "Done"
+} 
+
+def tools_i_have_used_and_learned(): 
+{ 
+    tool_1 = "Python" 
+    tool_2 = "Pycharm" 
+    tool_3 = "C"
+    tool_4 = "C++" 
+    tool_5 = "Java" 
+    tool_6 = "VS Code" 
+    tool_7 = "Adobe Illustrator"
+    tool_8 = "Adobe Photoshop" 
+    tool_9 = "Linux"
+    tool_10 = "HTML 5"
+}
+
+```
+
+
+
+<!--
 about me(): <br>
 { <br>
 &emsp;    name = "Teerth Shetty"<br>
@@ -40,6 +88,8 @@ def tools_i_have_used_and_learned(): <br>
 &emsp;    tool_9 = "Linux" <br>
 &emsp;    tool_10 = "HTML 5" <br>
 } <br>
+-->
+
 
 
 
