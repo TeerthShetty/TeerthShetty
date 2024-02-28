@@ -60,7 +60,7 @@ def Interest():
     Interest_4 = "Art" 
 }
 
-def Iechnical_background(): 
+def Technical_background(): 
 { 
     Internship_1 = "Bajaj Finserv"
     Internship_1_task = "Text Classification"
