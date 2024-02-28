@@ -64,6 +64,7 @@ def Iechnical_background():
     Internship_1 = "Bajaj Finserv"
     Internship_1_task = "Text Classification"
     Internship_1_task_status = "Done"
+    Internship_1_time_taken = "105 days"
 } 
 
 def Iools_i_have_used_and_learned(): 
