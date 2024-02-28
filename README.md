@@ -1,4 +1,5 @@
 <!-- Refered from @hedyhli for this idea -->
+<!-- Please copy it blindly atleast give credit -->
 <pre>
       ___             ___             ___         ___         ___     
      /\__\           /\  \           /\__\       /\__\       /\  \    
@@ -36,7 +37,7 @@
     /:/  /         \:\__\          |:|  |           \:\__\
     \/__/           \/__/           \|__|            \/__/ 
 </pre>
-# About Me 
+### About Me 
 ```Python
 def About_me():
 { 
