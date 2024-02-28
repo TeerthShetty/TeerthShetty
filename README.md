@@ -68,7 +68,7 @@ def Iechnical_background():
     Internship_1_time_taken = "105 days"
 } 
 
-def Iools_i_have_used_and_learned(): 
+def Tools_i_have_used_and_learned(): 
 { 
     Tool_1 = "Python" 
     Tool_2 = "Pycharm" 
