@@ -38,8 +38,7 @@
                     /:/  /         \:\__\          |:|  |           \:\__\
                     \/__/           \/__/           \|__|            \/__/ 
 </pre>
-![]
-(https://github.com/TeerthShetty/TeerthShetty/blob/main/60fpsparrot.gif)
+![](https://github.com/TeerthShetty/TeerthShetty/blob/main/60fpsparrot.gif)
 
 ### About Me 
 ```Python
