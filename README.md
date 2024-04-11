@@ -46,7 +46,7 @@
 ![](https://github.com/TeerthShetty/TeerthShetty/blob/main/60fpsparrot.gif)
 
 
-### About Me 
+## About Me 
 ```Python
 def About_me():
 { 
