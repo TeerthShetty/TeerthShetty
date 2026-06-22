@@ -55,25 +55,32 @@ def About_me():
 } 
 
 def Education(): 
-{ 
-    Formal_education = "BTech CSE" 
+{
+    Formal_Education_2 = "MBA in Banking and Financial Services"
+    Formal_education_1 = "BTech CSE" 
     Informal_education = "Self taught Developer" 
 }
 
 def Interest():
-{ 
+{
     Interest_1 = "Machine Learning" 
     Interest_2 = "Natural Language Processing" 
     Interest_3 = "Mathematics" 
-    Interest_4 = "Art" 
+    Interest_4 = "Finance"
+    Interest_5 = "Art" 
 }
 
 def Technical_background(): 
 { 
     Internship_1 = "Bajaj Finserv"
-    Internship_1_task = "Text Classification"
+    Internship_1_task = "Text Classification and NLP"
     Internship_1_task_status = "Done"
-    Internship_1_time_taken = "105 days"
+    Internship_1_time_period = "2.5 Months"
+    Internship_2 = "EY India"
+    Internship_1_task = "Business Continuity Management"
+    Internship_1_task_status = "Done"
+    Internship_1_time_period = "2 Months"
+    
 } 
 
 def Tools_i_have_used_and_learned(): 
@@ -88,6 +95,7 @@ def Tools_i_have_used_and_learned():
     Tool_8 = "Adobe Photoshop" 
     Tool_9 = "Linux"
     Tool_10 = "HTML 5"
+    Tool_11 = "Blender"
 }
 
 ```
