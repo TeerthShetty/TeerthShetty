@@ -52,6 +52,7 @@ def About_me():
 { 
     Name = "Teerth Shetty"
     Current_status = "Student"
+    Additional_Info_1 = "Patent Holder"
 } 
 
 def Education(): 
